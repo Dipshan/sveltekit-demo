@@ -17,7 +17,7 @@
 </script>
 
 <script>
-	import MovieDetail from 'src/components/MovieDetail.svelte';
+	import MovieDetail from '../../components/MovieDetail.svelte';
 	export let movieDetails;
 </script>
 
